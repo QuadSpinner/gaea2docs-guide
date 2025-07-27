@@ -4,7 +4,7 @@ The **Erosion\_2** node in Gaea 2 is a powerful new erosion algorithm designed t
 
 <figure><img src="../../../.gitbook/assets/Gaea_-_TalusNode002.terrain_09-02-33-PM - Copy.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/rX2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/erosion_phalanx.jpg" alt=""><figcaption></figcaption></figure>
 
 Despite its complexity, Erosion\_2 remains user-friendly and delivers deterministic results with up to 10x faster performance, even on the CPU.
 
@@ -128,11 +128,8 @@ Inverses the influence.
 
 Gaea's Erosion\_2 can utilize either GPU or CPU. It has an intelligent fallback if your GPU runs out of VRAM then it will run the erosion on the CPU where it may be slightly slower but less likely to run of of memory.
 
+In every scenario, Erosion\_2 can outrun classic Erosion by several magnitudes.
+
+<figure><img src="../../../.gitbook/assets/gaea2stats1.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/erosion_s85.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
