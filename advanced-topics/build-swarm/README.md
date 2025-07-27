@@ -1,5 +1,5 @@
 ---
-icon: cube
+icon: cubes-stacked
 ---
 
 # Build Swarm

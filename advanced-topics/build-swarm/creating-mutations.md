@@ -1,7 +1,3 @@
----
-icon: sparkles
----
-
 # Creating Mutations
 
 Mutations are a great way to create multiple variations of the same terrain with minimal effort.

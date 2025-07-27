@@ -1,7 +1,3 @@
----
-icon: sparkles
----
-
 # Build Reports
 
 ## Post-Action Screen

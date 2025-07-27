@@ -1,14 +1,28 @@
 ---
 icon: power-off
-cover: .gitbook/assets/GAEA2_IMAGE1_2k.jpg
-coverY: -137.31034482758622
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Home
 
 ## Welcome to the Gaea 2.0 Documentation
 
-Welcome to the official Gaea 2.0 documentation, your gateway to unlocking the full potential of the most advanced terrain generation software on the market. Whether you’re just starting or a seasoned professional, this guide is designed to provide you with everything you need to create stunning, complex terrains with ease and precision.
+<figure><img src=".gitbook/assets/Wallpaper.png" alt=""><figcaption></figcaption></figure>
+
+**Welcome to the official Gaea 2.0 documentation**, your gateway to unlocking the full potential of the most advanced terrain generation software on the market. Whether you’re just starting or a seasoned professional, this guide is designed to provide you with everything you need to create stunning, complex terrains with ease and precision.
 
 <figure><img src=".gitbook/assets/gaea-ui2x.webp" alt=""><figcaption></figcaption></figure>
 

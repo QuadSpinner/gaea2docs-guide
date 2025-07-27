@@ -20,7 +20,7 @@ MeshWarp will only work with Mesher nodes set to `Tris` export.
 
 The MeshWarp node, along with generating tangent-space normals, will also apply nuanced warping to mask and color maps to make them fit the exported Mesh and LODs with a higher level of fidelity.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag and drop a connection on the MeshWarp node and select "Add new port" to add additional ports.&#x20;
 

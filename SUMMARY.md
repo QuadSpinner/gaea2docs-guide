@@ -51,10 +51,10 @@
   * [Annotations](getting-started/the-graph/annotations.md)
   * [Groups](getting-started/the-graph/groups.md)
 * [Managing Gaea](getting-started/managing-gaea/README.md)
-  * [Command-line Interface](getting-started/managing-gaea/command-line-interface.md)
   * [Options](getting-started/managing-gaea/options/README.md)
     * [Compute](getting-started/managing-gaea/options/compute.md)
   * [Autosave and Recovery](getting-started/managing-gaea/autosave-and-recovery.md)
+* [Command-line Interface](getting-started/command-line-interface.md)
 * [For Gaea 1 Users](getting-started/for-gaea-1-users/README.md)
   * [Migration Guide](getting-started/for-gaea-1-users/migration-guide.md)
   * [Node Changes](getting-started/for-gaea-1-users/node-changes.md)
@@ -165,6 +165,7 @@
 
 ## Troubleshooting
 
+* [Common Issues and Workarounds](troubleshooting/common-issues-and-workarounds.md)
 * [Terrains](troubleshooting/terrains/README.md)
   * [Common Errors](troubleshooting/terrains/common-errors.md)
   * [Terrain Quality](troubleshooting/terrains/terrain-quality.md)

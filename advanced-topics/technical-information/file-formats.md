@@ -1,7 +1,3 @@
----
-icon: sparkles
----
-
 # File Formats
 
 Gaea supports all modern (and some legacy) file formats for both flat files and meshes.

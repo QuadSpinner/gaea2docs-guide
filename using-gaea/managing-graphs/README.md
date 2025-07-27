@@ -1,5 +1,5 @@
 ---
-icon: diagram-sankey
+icon: person-to-portal
 ---
 
 # Managing Graphs

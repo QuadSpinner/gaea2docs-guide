@@ -1,5 +1,5 @@
 ---
-icon: sparkles
+icon: rectangle-terminal
 ---
 
 # Command-line Interface
@@ -8,7 +8,7 @@ Gaea provides two command line interfaces. One for the UI and for the Build Swar
 
 ## Gaea.exe
 
-You can use the CLI for [activation.md](../license-management/activation.md "mention") and [deactivation.md](../license-management/deactivation.md "mention") as well as setting the Proxy, or enforcing [cpu-only-mode.md](../../troubleshooting/diagnostics-watson/cpu-only-mode.md "mention") or enabling Verbose logging for detailed diagnostics.
+You can use the CLI for [activation.md](license-management/activation.md "mention") and [deactivation.md](license-management/deactivation.md "mention") as well as setting the Proxy, or enforcing [cpu-only-mode.md](../troubleshooting/diagnostics-watson/cpu-only-mode.md "mention") or enabling Verbose logging for detailed diagnostics.
 
 ```sh
 USAGE: 
@@ -54,7 +54,7 @@ Gaea [[-Path] <String>] [-Activate <String>] [-CPUOnly] [-Deactivate] [-Help]
 
 ## Gaea.Swarm.exe
 
-For the Build Swarm, see [command-line-automation.md](../../advanced-topics/automation/command-line-automation.md "mention").
+For the Build Swarm, see [command-line-automation.md](../advanced-topics/automation/command-line-automation.md "mention").
 
 ```sh
 USAGE:

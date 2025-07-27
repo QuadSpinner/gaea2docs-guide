@@ -1,7 +1,3 @@
----
-icon: sparkles
----
-
 # Paths and Storage
 
 ## Data

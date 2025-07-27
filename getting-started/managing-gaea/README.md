@@ -1,5 +1,5 @@
 ---
-icon: gear-complex
+icon: sliders-simple
 ---
 
 # Managing Gaea
