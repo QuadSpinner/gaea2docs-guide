@@ -1,0 +1,6 @@
+---
+icon: square-terminal
+---
+
+# Automation
+
