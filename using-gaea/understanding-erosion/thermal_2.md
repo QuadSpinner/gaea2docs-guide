@@ -4,10 +4,6 @@ hidden: true
 
 # Thermal\_2
 
-
-
-#### Thermal\_2 Parameter Documentation
-
 **Erosion**
 
 * **Duration:** Controls the duration of the thermal erosion process. A higher value means the erosion will act over a longer period, leading to more significant changes in the terrain.
