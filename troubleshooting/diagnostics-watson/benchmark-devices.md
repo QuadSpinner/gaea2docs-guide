@@ -4,7 +4,7 @@
 
 ## Hardware Benchmark
 
-The Hardware Benchmark runs tests to determine the general speed of your CPU, integrated GPU, dedicated GPU, and any other compatible devices that Gaea can utilize for [compute.md](../../getting-started/managing-gaea/options/compute.md "mention").
+The Hardware Benchmark runs tests to determine the general speed of your CPU, integrated GPU, dedicated GPU, and any other compatible devices that Gaea can utilize for [Broken link](broken-reference "mention").
 
 You can choose between the normal, High Accuracy, or Very High Accuracy test. Higher accuracy tests require longer testing time.
 
@@ -14,6 +14,6 @@ The score signifies the performance factor of each device. A higher score indica
 
 ### Compute Options
 
-The benchmark data is also available via the [compute.md](../../getting-started/managing-gaea/options/compute.md "mention") tab in [options](../../getting-started/managing-gaea/options/ "mention").&#x20;
+The benchmark data is also available via the [Broken link](broken-reference "mention") tab in [options.md](../../getting-started/options.md "mention").&#x20;
 
 <figure><img src="../../.gitbook/assets/Options_11-09-14-AM.png" alt=""><figcaption></figcaption></figure>

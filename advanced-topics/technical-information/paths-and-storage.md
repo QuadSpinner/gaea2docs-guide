@@ -24,7 +24,7 @@ For example, if your install location is: `D:\Programs\CG\Gaea\` then the Data f
 
 ## Your Gaea Files
 
-These paths can be changed in the [options](../../getting-started/managing-gaea/options/ "mention") dialog.
+These paths can be changed in the [options.md](../../getting-started/options.md "mention") dialog.
 
 ### Documents
 

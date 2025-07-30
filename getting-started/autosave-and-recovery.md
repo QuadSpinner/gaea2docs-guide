@@ -1,10 +1,14 @@
+---
+icon: light-emergency-on
+---
+
 # Autosave and Recovery
 
 ## Autosave Menu
 
 The Autosave feature in Gaea is a crucial tool designed to automatically save your project at regular intervals. This ensures that your work is periodically backed up, minimizing data loss in the event of unexpected software shutdowns or system failures.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Remind Me to Save Every.** This option allows you to set the frequency of the Autosave reminders. You can choose from the following intervals **5 minutes, 10 minutes, 15 minutes, 30 minutes.**
 
@@ -34,7 +38,7 @@ Selecting one of these options will configure the application to remind you to s
 
 Sometimes your Gaea instance might crash, or a hardware failure may cause your computer to crash or reboot. Gaea uses a background thread to save your latest action every 5 seconds.
 
-In your [Gaea Data Folder](../install-gaea/) you will find a `\Autosaves\recovery.terrain` file.
+In your [Gaea Data Folder](install-gaea/) you will find a `\Autosaves\recovery.terrain` file.
 
 {% hint style="danger" %}
 It is important to check both the `recovery` and `autosave` files which are also in the same folder. If the 5-second-time that saves recovery information has not fired before the crash, then you may need to use the most recent autosave as the latest recovery file may not have saved. This does not happen often, but it is a possibility.
