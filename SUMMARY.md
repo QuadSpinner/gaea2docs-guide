@@ -144,12 +144,14 @@
   * [Installing Gaea2Houdini](plugins/gaea2houdini/installing-gaea2houdini.md)
   * [Gaea SOP Nodes](plugins/gaea2houdini/gaea-sop-nodes.md)
   * [Preparing a Terrain File](plugins/gaea2houdini/preparing-a-terrain-file.md)
+  * [Source Code](plugins/gaea2houdini/source-code.md)
   * [Archived (v2.1 or older)](plugins/gaea2houdini/archived-v2.1-or-older/README.md)
     * [Using Gaea Nodes](plugins/gaea2houdini/archived-v2.1-or-older/using-gaea-nodes.md)
 * [Gaea2Unreal](plugins/gaea2unreal/README.md)
   * [Installing Gaea2Unreal](plugins/gaea2unreal/installing-gaea2unreal.md)
   * [Importing Terrains](plugins/gaea2unreal/importing-terrains.md)
   * [Importing Weight Maps](plugins/gaea2unreal/importing-weight-maps.md)
+  * [Source Code](plugins/gaea2unreal/source-code.md)
 
 ## Developers
 
