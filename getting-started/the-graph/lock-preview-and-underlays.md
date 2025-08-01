@@ -1,7 +1,3 @@
----
-icon: sparkles
----
-
 # Lock Preview and Underlays
 
 ## Lock Preview <a href="#pin-node-for-focus" id="pin-node-for-focus"></a>
