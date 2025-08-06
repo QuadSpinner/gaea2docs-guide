@@ -1,10 +1,10 @@
 # Preparing a Terrain File
 
-{% hint style="info" %}
-**Draft / Work in Progress**
+## Using Gaea2Houdini
 
-This page may undergo some changes before the final version of Gaea2Houdini for Gaea 2.2 is released.
-{% endhint %}
+{% embed url="https://www.youtube.com/watch?v=h_K_MdGAxSo" %}
+
+## Examples
 
 Your Gaea `.terrain` file can be as simple as one node, or have a hundred nodes with complex routing logic. In either case, your file still needs to follow a simple `In > Process > Out` structure or a `Generate > Out` structure.
 

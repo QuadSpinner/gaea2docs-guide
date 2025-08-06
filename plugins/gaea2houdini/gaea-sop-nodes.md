@@ -1,9 +1,5 @@
 # Gaea SOP Nodes
 
-{% hint style="warning" %}
-This new version of Gaea2Houdini is only available via [this Github PR](https://github.com/sideeffects/SideFXLabs/pull/72/). It will become part of SideFx Labs soon.
-{% endhint %}
-
 ## Gaea Terrain Processor (SOP Node)
 
 The **Gaea Terrain Processor** node runs `.terrain` files authored in Gaea 2.2 or newer. These terrain files can include exposed parameters, input bindings, and output maps. The node executes Gaea Swarm in the background and caches results locally on disk.

@@ -8,6 +8,10 @@ Gaea2Houdini ships in [SideFX Labs](https://www.sidefx.com/products/sidefx-labs/
 
 You can find further details on SideFX Labs' Installation process [in their documentation](https://www.sidefx.com/docs/houdini/labs/#install).
 
+{% hint style="warning" %}
+Choose the **Daily Build** to install the version with the Gaea2Houdini plugin, until it is made available in the Production Build.&#x20;
+{% endhint %}
+
 ## Install Gaea
 
 Before using Gaea2Houdini, make sure Gaea 2.0 has been [installed ](../../getting-started/install-gaea/)and [activated](../../getting-started/license-management/activation.md). Gaea2Houdini requires a `Professional` or `Enterprise` license.
@@ -16,8 +20,3 @@ Before using Gaea2Houdini, make sure Gaea 2.0 has been [installed ](../../gettin
 It is important to install Gaea as a [regular-installation.md](../../getting-started/install-gaea/regular-installation.md "mention") otherwise the communication between Gaea and Houdini may not work.&#x20;
 {% endhint %}
 
-## Firewall Considerations
-
-Gaea2Houdini uses TCP/IP to communicate with the Gaea Engine. The port specified in the [#advanced-settings](archived-v2.1-or-older/using-gaea-nodes.md#advanced-settings "mention") for the Gaea nodes must be accessible for both Gaea and Houdini.
-
-The default port value is `8005`.
