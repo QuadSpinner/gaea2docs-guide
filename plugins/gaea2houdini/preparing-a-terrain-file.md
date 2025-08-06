@@ -22,7 +22,7 @@ For Output, create a variable and set the Type to Output. Create an Export node,
 
 
 
-Now you can put anything between these nodes and expose their properties. These properties will show up in Houdini in the [#gaea-terrain-processor-sop-node](gaea-sop-nodes.md#gaea-terrain-processor-sop-node "mention").
+Now you can put anything between these nodes and expose their properties. These properties will show up in Houdini in the [#gaea-terrain-processor-sop-node](gaea-hdas.md#gaea-terrain-processor-sop-node "mention").
 
 ## Examples
 
