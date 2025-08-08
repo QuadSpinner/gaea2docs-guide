@@ -142,7 +142,6 @@
   * [Installing Gaea2Houdini](plugins/gaea2houdini/installing-gaea2houdini.md)
   * [Preparing a Terrain File](plugins/gaea2houdini/preparing-a-terrain-file.md)
   * [Gaea HDAs](plugins/gaea2houdini/gaea-hdas.md)
-  * [Page](plugins/gaea2houdini/page.md)
   * [Source Code](plugins/gaea2houdini/source-code.md)
   * [Archived (v2.1 or older)](plugins/gaea2houdini/archived-v2.1-or-older/README.md)
     * [Using Gaea Nodes](plugins/gaea2houdini/archived-v2.1-or-older/using-gaea-nodes.md)
