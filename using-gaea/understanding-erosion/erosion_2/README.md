@@ -4,8 +4,6 @@ The **Erosion\_2** node in Gaea 2 is a powerful new erosion algorithm designed t
 
 <figure><img src="../../../.gitbook/assets/Gaea_-_TalusNode002.terrain_09-02-33-PM - Copy.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/erosion_phalanx.jpg" alt=""><figcaption></figcaption></figure>
-
 Despite its complexity, Erosion\_2 remains user-friendly and delivers deterministic results with up to 10x faster performance, even on the CPU.
 
 <figure><img src="../../../.gitbook/assets/Gaea_-_mix1.terrain_10-18-16-PM.png" alt=""><figcaption></figcaption></figure>
@@ -13,6 +11,8 @@ Despite its complexity, Erosion\_2 remains user-friendly and delivers determinis
 ## Using Erosion\_2
 
 The **Erosion\_2** node offers extensive control over the erosion process, allowing users to shape terrain with a range of new options and refinements.&#x20;
+
+{% embed url="https://youtu.be/We4Pg_gdsVA" %}
 
 <figure><img src="../../../.gitbook/assets/Gaea_-_Erosion_-_Mineral_Deposits_and_ColorErosion_12-02-58-AM.png" alt=""><figcaption></figcaption></figure>
 

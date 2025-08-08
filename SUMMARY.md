@@ -81,8 +81,6 @@
   * [Erosion\_1](using-gaea/understanding-erosion/erosion_1.md)
   * [Thermal\_2](using-gaea/understanding-erosion/thermal_2.md)
   * [Thermal Erosion](using-gaea/understanding-erosion/thermal-erosion.md)
-  * [Additional Erosion Nodes](using-gaea/understanding-erosion/additional-erosion-nodes.md)
-  * [Nuance](using-gaea/understanding-erosion/nuance.md)
 * [Simulations](using-gaea/simulations/README.md)
   * [Snowfall](using-gaea/simulations/snowfall.md)
   * [Debris](using-gaea/simulations/debris.md)
